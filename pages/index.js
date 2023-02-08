@@ -134,7 +134,7 @@ const nextjsapp = () => {
           <nav className="navbar navbar-expand-lg bg-none px-5">
             <a className="navbar-brand" href="#">
               <div className="logo-wraper">
-                <Image className="img-fluid" src="/Tripocio_Logo.webp" alt="Image" width="243" height="144" />
+                <Image className="img-fluid" src="public\Tripocio_Logo.WEBP" alt="Image" width="243" height="144" />
               </div>
             </a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -244,7 +244,7 @@ const nextjsapp = () => {
                   <div className="package-card-wraper">
                     <div className="package-card">
                       <div className="package-card-img">
-                        <Image src="/packagecard1.webp" className="img-fluid" alt="Image" width="1035" height="744" />
+                        <Image src="/packagecard1.WEBP" className="img-fluid" alt="Image" width="1035" height="744" />
                         <div className="image-overlay">
                           <div className="overlay-inner">
                             <h3>Fascinating Kashmir</h3>
@@ -278,19 +278,19 @@ const nextjsapp = () => {
                           <li className="icon-wraper">
                             <div className="icon-box">
                               <div className="package-ico">
-                                <Image className="img-fluid" src="/hotel.webp" alt="Image" width="512" height="512" />
+                                <Image className="img-fluid" src="/hotel.WEBP" alt="Image" width="512" height="512" />
                               </div>
                               <div className="package-ico">
-                                <Image className="img-fluid" src="/transportation.webp" alt="Image" width="512" height="512" />
+                                <Image className="img-fluid" src="/transportation.WEBP" alt="Image" width="512" height="512" />
                               </div>
                               <div className="package-ico">
-                                <Image className="img-fluid" src="/sightseeing.webp" alt="Image" width="512" height="512" />
+                                <Image className="img-fluid" src="/sightseeing.WEBP" alt="Image" width="512" height="512" />
                               </div>
                               <div className="package-ico">
-                                <Image className="img-fluid" src="/meal.webp" alt="Image" width="512" height="512" />
+                                <Image className="img-fluid" src="/meal.WEBP" alt="Image" width="512" height="512" />
                               </div>
                               <div className="package-ico">
-                                <Image className="img-fluid" src="/customer-support.webp" alt="Image" width="512" height="512" />
+                                <Image className="img-fluid" src="/customer-support.WEBP" alt="Image" width="512" height="512" />
                               </div>
                             </div>
                             <div className="jurneydetail">
@@ -311,7 +311,7 @@ const nextjsapp = () => {
                                           <form>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><Image className="img-fluid" src="/user_5@2x.webp" alt="Image" width="48" height="48" /></span>
+                                                <span><Image className="img-fluid" src="/user_5@2x.WEBP" alt="Image" width="48" height="48" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="username" placeholder="Name" value={name}
@@ -320,7 +320,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../email_8@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../email_8@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="email" className="form-control item" id="email" placeholder="Email" value={email}
@@ -329,7 +329,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../phone-call_1@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../phone-call_1@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="number" className="form-control item" id="phone-number" placeholder="Contact Number" value={phoneNumber}
@@ -338,7 +338,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../city@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../city@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="city" placeholder="City" value={city}
@@ -367,7 +367,7 @@ const nextjsapp = () => {
                   <div className="package-card-wraper">
                     <div className="package-card">
                       <div className="package-card-img">
-                        <img src="../packagecard2.webp" className="img-fluid" alt="Image" />
+                        <img src="../packagecard2.WEBP" className="img-fluid" alt="Image" />
                         <div className="image-overlay">
                           <div className="overlay-inner">
                             <h3>Heavenly Kashmir</h3>
@@ -400,19 +400,19 @@ const nextjsapp = () => {
                           <li className="icon-wraper">
                             <div className="icon-box">
                               <div className="package-ico">
-                                <img className="img-fluid" src="../hotel.webp" alt="Image" />
+                                <img className="img-fluid" src="../hotel.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../transportation.webp" alt="Image" />
+                                <img className="img-fluid" src="../transportation.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../sightseeing.webp" alt="Image" />
+                                <img className="img-fluid" src="../sightseeing.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../meal.webp" alt="Image" />
+                                <img className="img-fluid" src="../meal.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../customer-support.webp" alt="Image" />
+                                <img className="img-fluid" src="../customer-support.WEBP" alt="Image" />
                               </div>
                             </div>
                             <div className="jurneydetail">
@@ -434,7 +434,7 @@ const nextjsapp = () => {
                                           <form>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../user_5@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../user_5@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="username" placeholder="Name" value={name}
@@ -443,7 +443,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../email_8@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../email_8@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="email" className="form-control item" id="email" placeholder="Email" value={email}
@@ -452,7 +452,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../phone-call_1@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../phone-call_1@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="number" className="form-control item" id="phone-number" placeholder="Contact Number" value={phoneNumber}
@@ -461,7 +461,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../city@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../city@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="city" placeholder="City" value={city}
@@ -490,7 +490,7 @@ const nextjsapp = () => {
                   <div className="package-card-wraper">
                     <div className="package-card">
                       <div className="package-card-img">
-                        <img src="../packagecard3.webp" className="img-fluid" alt="Image" />
+                        <img src="../packagecard3.WEBP" className="img-fluid" alt="Image" />
                         <div className="image-overlay">
                           <div className="overlay-inner">
                             <h3>Glimpses Of Kashmir Valley</h3>
@@ -523,19 +523,19 @@ const nextjsapp = () => {
                           <li className="icon-wraper">
                             <div className="icon-box">
                               <div className="package-ico">
-                                <img className="img-fluid" src="../hotel.webp" alt="Image" />
+                                <img className="img-fluid" src="../hotel.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../transportation.webp" alt="Image" />
+                                <img className="img-fluid" src="../transportation.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../sightseeing.webp" alt="Image" />
+                                <img className="img-fluid" src="../sightseeing.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../meal.webp" alt="Image" />
+                                <img className="img-fluid" src="../meal.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../customer-support.webp" alt="Image" />
+                                <img className="img-fluid" src="../customer-support.WEBP" alt="Image" />
                               </div>
                             </div>
                             <div className="jurneydetail">
@@ -556,7 +556,7 @@ const nextjsapp = () => {
                                           <form>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../user_5@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../user_5@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="username" placeholder="Name" value={name}
@@ -565,7 +565,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../email_8@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../email_8@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="email" className="form-control item" id="email" placeholder="Email" value={email}
@@ -574,7 +574,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../phone-call_1@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../phone-call_1@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="number" className="form-control item" id="phone-number" placeholder="Contact Number" value={phoneNumber}
@@ -583,7 +583,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../city@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../city@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="city" placeholder="City" value={city}
@@ -612,7 +612,7 @@ const nextjsapp = () => {
                   <div className="package-card-wraper">
                     <div className="package-card">
                       <div className="package-card-img">
-                        <img src="../packagecard4.webp" className="img-fluid" alt="Image" />
+                        <img src="../packagecard4.WEBP" className="img-fluid" alt="Image" />
                         <div className="image-overlay">
                           <div className="overlay-inner">
                             <h3>Honeymoon in Kashmir</h3>
@@ -645,19 +645,19 @@ const nextjsapp = () => {
                           <li className="icon-wraper">
                             <div className="icon-box">
                               <div className="package-ico">
-                                <img className="img-fluid" src="../hotel.webp" alt="Image" />
+                                <img className="img-fluid" src="../hotel.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../transportation.webp" alt="Image" />
+                                <img className="img-fluid" src="../transportation.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../sightseeing.webp" alt="Image" />
+                                <img className="img-fluid" src="../sightseeing.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../meal.webp" alt="Image" />
+                                <img className="img-fluid" src="../meal.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../customer-support.webp" alt="Image" />
+                                <img className="img-fluid" src="../customer-support.WEBP" alt="Image" />
                               </div>
                             </div>
                             <div className="jurneydetail">
@@ -679,7 +679,7 @@ const nextjsapp = () => {
                                           <form>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../user_5@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../user_5@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="username" placeholder="Name" value={name}
@@ -688,7 +688,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../email_8@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../email_8@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="email" className="form-control item" id="email" placeholder="Email" value={email}
@@ -697,7 +697,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../phone-call_1@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../phone-call_1@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="number" className="form-control item" id="phone-number" placeholder="Contact Number" value={phoneNumber}
@@ -706,7 +706,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../city@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../city@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="city" placeholder="City" value={city}
@@ -735,7 +735,7 @@ const nextjsapp = () => {
                   <div className="package-card-wraper">
                     <div className="package-card">
                       <div className="package-card-img">
-                        <img src="../packagecard5.webp" className="img-fluid" alt="Image" />
+                        <img src="../packagecard5.WEBP" className="img-fluid" alt="Image" />
                         <div className="image-overlay">
                           <div className="overlay-inner">
                             <h3>Stunning Kashmir </h3>
@@ -768,19 +768,19 @@ const nextjsapp = () => {
                           <li className="icon-wraper">
                             <div className="icon-box">
                               <div className="package-ico">
-                                <img className="img-fluid" src="../hotel.webp" alt="Image" />
+                                <img className="img-fluid" src="../hotel.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../transportation.webp" alt="Image" />
+                                <img className="img-fluid" src="../transportation.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../sightseeing.webp" alt="Image" />
+                                <img className="img-fluid" src="../sightseeing.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../meal.webp" alt="Image" />
+                                <img className="img-fluid" src="../meal.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../customer-support.webp" alt="Image" />
+                                <img className="img-fluid" src="../customer-support.WEBP" alt="Image" />
                               </div>
                             </div>
                             <div className="jurneydetail">
@@ -801,7 +801,7 @@ const nextjsapp = () => {
                                           <form>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../user_5@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../user_5@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="username" placeholder="Name" value={name}
@@ -810,7 +810,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../email_8@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../email_8@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="email" className="form-control item" id="email" placeholder="Email" value={email}
@@ -819,7 +819,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../phone-call_1@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../phone-call_1@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="number" className="form-control item" id="phone-number" placeholder="Contact Number" value={phoneNumber}
@@ -828,7 +828,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../city@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../city@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="city" placeholder="City" value={city}
@@ -857,7 +857,7 @@ const nextjsapp = () => {
                   <div className="package-card-wraper">
                     <div className="package-card">
                       <div className="package-card-img">
-                        <img src="../packagecard5.webp" className="img-fluid" alt="Image" />
+                        <img src="../packagecard5.WEBP" className="img-fluid" alt="Image" />
                         <div className="image-overlay">
                           <div className="overlay-inner">
                             <h3>Kashmir 6</h3>
@@ -890,19 +890,19 @@ const nextjsapp = () => {
                           <li className="icon-wraper">
                             <div className="icon-box">
                               <div className="package-ico">
-                                <img className="img-fluid" src="../hotel.webp" alt="Image" />
+                                <img className="img-fluid" src="../hotel.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../transportation.webp" alt="Image" />
+                                <img className="img-fluid" src="../transportation.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../sightseeing.webp" alt="Image" />
+                                <img className="img-fluid" src="../sightseeing.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../meal.webp" alt="Image" />
+                                <img className="img-fluid" src="../meal.WEBP" alt="Image" />
                               </div>
                               <div className="package-ico">
-                                <img className="img-fluid" src="../customer-support.webp" alt="Image" />
+                                <img className="img-fluid" src="../customer-support.WEBP" alt="Image" />
                               </div>
                             </div>
                             <div className="jurneydetail">
@@ -923,7 +923,7 @@ const nextjsapp = () => {
                                           <form>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../user_5@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../user_5@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="username" placeholder="Name" value={name}
@@ -932,7 +932,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../email_8@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../email_8@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="email" className="form-control item" id="email" placeholder="Email" value={email}
@@ -941,7 +941,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../phone-call_1@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../phone-call_1@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="number" className="form-control item" id="phone-number" placeholder="Contact Number" value={phoneNumber}
@@ -950,7 +950,7 @@ const nextjsapp = () => {
                                             </div>
                                             <div className="form-input-wraper">
                                               <div className="form-icon">
-                                                <span><img className="img-fluid" src="../city@2x.webp" alt="Image" /></span>
+                                                <span><img className="img-fluid" src="../city@2x.WEBP" alt="Image" /></span>
                                               </div>
                                               <div className="form-group">
                                                 <input type="text" className="form-control item" id="city" placeholder="City" value={city}
@@ -1012,7 +1012,7 @@ const nextjsapp = () => {
                         </div>
                         <div className="col-lg-5 col-md-10 col-sm-12">
                           <div className="visit-card-right">
-                            <img className="img-fluid" src="../Rectangle_16.webp" alt="Image" />
+                            <img className="img-fluid" src="../Rectangle_16.WEBP" alt="Image" />
                           </div>
                         </div>
                       </div>
@@ -1023,7 +1023,7 @@ const nextjsapp = () => {
                       <div className="row">
                         <div className="col-lg-5 col-md-10 col-sm-12">
                           <div className="visit-card-right">
-                            <img className="img-fluid" src="../Rectangle_16_fh.webp" alt="Image" />
+                            <img className="img-fluid" src="../Rectangle_16_fh.WEBP" alt="Image" />
                           </div>
                         </div>
                         <div className="col-lg-7 col-md-10 col-sm-12">
@@ -1070,7 +1070,7 @@ const nextjsapp = () => {
                         </div>
                         <div className="col-lg-5 col-md-10 col-sm-12">
                           <div className="visit-card-right">
-                            <img className="img-fluid" src="../Rectangle_16_fg.webp" alt="Image" />
+                            <img className="img-fluid" src="../Rectangle_16_fg.WEBP" alt="Image" />
                           </div>
                         </div>
                       </div>
@@ -1091,17 +1091,17 @@ const nextjsapp = () => {
                       <h2>Talk to a Kashmir destination expert now!</h2>
                       <Link href="https://wa.link/s02ua8"><button className="btn">Whatsapp Now</button></Link>
                       {/* <!-- <div id="Mask_Group">
-                                                                    <img id="Rectangle_154" src="../Rectangle_154.webp" srcset="../Rectangle_154.webp 1x">
+                                                                    <img id="Rectangle_154" src="../Rectangle_154.WEBP" srcset="../Rectangle_154.WEBP 1x">
                                                                 </div> --> */}
                     </div>
                   </div>
                   <div className="talk-logo-round">
                     <div className="talk-logo">
-                      <img src="../whattsapp.webp" alt="Image" className="img-fluid" />
+                      <img src="../whattsapp.WEBP" alt="Image" className="img-fluid" />
                     </div>
                   </div>
                   {/* <!-- <div className="talk-left-obje">
-                                                            <img src="../Rectangle_154.webp" className="img-fluid" alt="Image">
+                                                            <img src="../Rectangle_154.WEBP" className="img-fluid" alt="Image">
                                                         </div> --> */}
                 </div>
               </div>
@@ -1117,28 +1117,28 @@ const nextjsapp = () => {
                                                         <div className="item">
                                                             <div className="recent-card-warper">
                                                                 <div className="recent-card">
-                                                                    <img className="img-fluid" src="../recent-traveler1.webp" alt="Image"/>
+                                                                    <img className="img-fluid" src="../recent-traveler1.WEBP" alt="Image"/>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div className="item">
                                                             <div className="recent-card-warper">
                                                                 <div className="recent-card">
-                                                                    <img className="img-fluid" src="../recent-traveler2.webp" alt="Image"/>
+                                                                    <img className="img-fluid" src="../recent-traveler2.WEBP" alt="Image"/>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div className="item">
                                                             <div className="recent-card-warper">
                                                                 <div className="recent-card">
-                                                                    <img className="img-fluid" src="../recent-traveler3.webp" alt="Image"/>
+                                                                    <img className="img-fluid" src="../recent-traveler3.WEBP" alt="Image"/>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div className="item">
                                                             <div className="recent-card-warper">
                                                                 <div className="recent-card">
-                                                                    <img className="img-fluid" src="../recent-traveler4.webp" alt="Image"/>
+                                                                    <img className="img-fluid" src="../recent-traveler4.WEBP" alt="Image"/>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1146,10 +1146,10 @@ const nextjsapp = () => {
                 <h1>
                   <div className="row large">
                     <div className="imagegroup" style={{ border: '2px solid white' }}>
-                      <img src="../recent-traveler1.webp" />
-                      <img src="../recent-traveler2.webp" />
-                      <img src="../recent-traveler3.webp" />
-                      <img src="../recent-traveler4.webp" />
+                      <img src="../recent-traveler1.WEBP" />
+                      <img src="../recent-traveler2.WEBP" />
+                      <img src="../recent-traveler3.WEBP" />
+                      <img src="../recent-traveler4.WEBP" />
                     </div>
                   </div>
                 </h1>
@@ -1186,27 +1186,27 @@ const nextjsapp = () => {
                   <div className="award-main">
                     <div className="award-box-wraper">
                       <div className="award-box">
-                        <img src="../Untitled-1-01.webp" alt="Image" className="img-fluid" />
+                        <img src="../Untitled-1-01.WEBP" alt="Image" className="img-fluid" />
                       </div>
                     </div>
                     <div className="award-box-wraper">
                       <div className="award-box">
-                        <img src="../Untitled-1-02.webp" alt="Image" className="img-fluid" />
+                        <img src="../Untitled-1-02.WEBP" alt="Image" className="img-fluid" />
                       </div>
                     </div>
                     <div className="award-box-wraper">
                       <div className="award-box">
-                        <img src="../Untitled-1-03.webp" alt="Image" className="img-fluid" />
+                        <img src="../Untitled-1-03.WEBP" alt="Image" className="img-fluid" />
                       </div>
                     </div>
                     <div className="award-box-wraper">
                       <div className="award-box">
-                        <img src="../Untitled-1-04.webp" alt="Image" className="img-fluid" />
+                        <img src="../Untitled-1-04.WEBP" alt="Image" className="img-fluid" />
                       </div>
                     </div>
                     <div className="award-box-wraper">
                       <div className="award-box">
-                        <img src="../Untitled-1-05.webp" alt="Image" className="img-fluid" />
+                        <img src="../Untitled-1-05.WEBP" alt="Image" className="img-fluid" />
                       </div>
                     </div>
                   </div>
@@ -1225,28 +1225,28 @@ const nextjsapp = () => {
                     <div className="col-lg-3 col-md-6 col-sm-12">
                       <div className="membership-box-wraper">
                         <div className="membership-box">
-                          <img src="../Untitled-2-01.webp" alt="Image" className="img-fluid" />
+                          <img src="../Untitled-2-01.WEBP" alt="Image" className="img-fluid" />
                         </div>
                       </div>
                     </div>
                     <div className="col-lg-3 col-md-6 col-sm-12">
                       <div className="membership-box-wraper">
                         <div className="membership-box">
-                          <img src="../Untitled-2-02.webp" alt="Image" className="img-fluid" />
+                          <img src="../Untitled-2-02.WEBP" alt="Image" className="img-fluid" />
                         </div>
                       </div>
                     </div>
                     <div className="col-lg-3 col-md-6 col-sm-12">
                       <div className="membership-box-wraper">
                         <div className="membership-box">
-                          <img src="../Untitled-2-03.webp" alt="Image" className="img-fluid" />
+                          <img src="../Untitled-2-03.WEBP" alt="Image" className="img-fluid" />
                         </div>
                       </div>
                     </div>
                     <div className="col-lg-3 col-md-6 col-sm-12">
                       <div className="membership-box-wraper">
                         <div className="membership-box">
-                          <img src="../Untitled-2-04.webp" alt="Image" className="img-fluid" />
+                          <img src="../Untitled-2-04.WEBP" alt="Image" className="img-fluid" />
                         </div>
                       </div>
                     </div>
@@ -1266,7 +1266,7 @@ const nextjsapp = () => {
                     <div className="choose-us-card">
                       <div className="choose-us-card-ico">
                         <div className="icon-box" style={{ backgroundColor: 'rgb(127 209 155)' }}>
-                          <img src="../choose-img6.webp" alt="Image" className="img-fluid" />
+                          <img src="../choose-img6.WEBP" alt="Image" className="img-fluid" />
                         </div>
                       </div>
                       <div className="choose-us-card-text">
@@ -1283,7 +1283,7 @@ const nextjsapp = () => {
                     <div className="choose-us-card">
                       <div className="choose-us-card-ico">
                         <div className="icon-box" style={{ backgroundColor: 'rgb(236 219 132)' }}>
-                          <img src="../choose-img5.webp" alt="Image" className="img-fluid" />
+                          <img src="../choose-img5.WEBP" alt="Image" className="img-fluid" />
                         </div>
                       </div>
                       <div className="choose-us-card-text">
@@ -1301,7 +1301,7 @@ const nextjsapp = () => {
                     <div className="choose-us-card">
                       <div className="choose-us-card-ico">
                         <div className="icon-box" style={{ backgroundColor: 'rgb(242 144 117)' }}>
-                          <img src="../choose-img4.webp" alt="Image" className="img-fluid" />
+                          <img src="../choose-img4.WEBP" alt="Image" className="img-fluid" />
                         </div>
                       </div>
                       <div className="choose-us-card-text">
@@ -1318,7 +1318,7 @@ const nextjsapp = () => {
                     <div className="choose-us-card">
                       <div className="choose-us-card-ico">
                         <div className="icon-box" style={{ backgroundColor: 'rgba(125,160,221,1)' }}>
-                          <img src="../choose-img3.webp" alt="Image" className="img-fluid" />
+                          <img src="../choose-img3.WEBP" alt="Image" className="img-fluid" />
                         </div>
                       </div>
                       <div className="choose-us-card-text">
@@ -1335,7 +1335,7 @@ const nextjsapp = () => {
                     <div className="choose-us-card">
                       <div className="choose-us-card-ico">
                         <div className="icon-box " style={{ backgroundColor: 'rgba(241,117,196,1)' }}>
-                          <img src="../choose-img1.webp" alt="Image" className="img-fluid" />
+                          <img src="../choose-img1.WEBP" alt="Image" className="img-fluid" />
                         </div>
                       </div>
                       <div className="choose-us-card-text">
@@ -1352,7 +1352,7 @@ const nextjsapp = () => {
                     <div className="choose-us-card">
                       <div className="choose-us-card-ico">
                         <div className="icon-box" style={{ backgroundColor: 'rgba(63,225,225,1);' }}>
-                          <img src="../choose-img2.webp" alt="Image" className="img-fluid" />
+                          <img src="../choose-img2.WEBP" alt="Image" className="img-fluid" />
                         </div>
                       </div>
                       <div className="choose-us-card-text">
@@ -1370,7 +1370,7 @@ const nextjsapp = () => {
                                                         <div className="choose-us-inner">
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
-                                                                    <div className="icon-box" style={{backgroundColor:'rgb(127 209 155);">'}}                                                                       <img src="../choose-img6.webp" alt="Image" className="img-fluid">
+                                                                    <div className="icon-box" style={{backgroundColor:'rgb(127 209 155);">'}}                                                                       <img src="../choose-img6.WEBP" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -1384,7 +1384,7 @@ const nextjsapp = () => {
                                                         <div className="choose-us-inner">
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
-                                                                    <div className="icon-box" style={{backgroundColor:'rgb(236 219 132)">'}}                                                                      <img src="../choose-img5.webp" alt="Image" className="img-fluid">
+                                                                    <div className="icon-box" style={{backgroundColor:'rgb(236 219 132)">'}}                                                                      <img src="../choose-img5.WEBP" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -1399,7 +1399,7 @@ const nextjsapp = () => {
                                                         <div className="choose-us-inner">
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
-                                                                    <div className="icon-box" style={{backgroundColor:' rgb(242 144 117);"'}}                                                                        <img src="../choose-img4.webp" alt="Image" className="img-fluid">
+                                                                    <div className="icon-box" style={{backgroundColor:' rgb(242 144 117);"'}}                                                                        <img src="../choose-img4.WEBP" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -1414,7 +1414,7 @@ const nextjsapp = () => {
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
                                                                     <div className="icon-box" style={{backgroundColor:'rgba(125,160,221,1)'}}>
-                                                                        <img src="../choose-img3.webp" alt="Image" className="img-fluid">
+                                                                        <img src="../choose-img3.WEBP" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -1429,7 +1429,7 @@ const nextjsapp = () => {
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
                                                                     <div className="icon-box " style={{backgroundColor:'rgba(241,117,196,1)'}}>
-                                                                        <img src="../choose-img1.webp" alt="Image" className="img-fluid">
+                                                                        <img src="../choose-img1.WEBP" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -1444,7 +1444,7 @@ const nextjsapp = () => {
                                                             <div className="choose-us-card">
                                                                 <div className="choose-us-card-ico">
                                                                     <div className="icon-box" style={{backgroundColor:'rgba(63,225,225,1);'}}
-                                                                        <img src="../choose-img2.webp" alt="Image" className="img-fluid">
+                                                                        <img src="../choose-img2.WEBP" alt="Image" className="img-fluid">
                                                                     </div>
                                                                 </div>
                                                                 <div className="choose-us-card-text">
@@ -1476,7 +1476,7 @@ const nextjsapp = () => {
                             Experience</p>
                           <div className="userdata">
                             <span className="userimg">
-                              <img src="../Ellipse_24@2x.webp" alt="image" />
+                              <img src="../Ellipse_24@2x.WEBP" alt="image" />
                             </span>
                             <span className="userabout">
                               <h5>sara Sharma</h5>
@@ -1501,7 +1501,7 @@ const nextjsapp = () => {
                             Experience</p>
                           <div className="userdata">
                             <span className="userimg">
-                              <img src="../Ellipse_24@2x.webp" alt="image" />
+                              <img src="../Ellipse_24@2x.WEBP" alt="image" />
                             </span>
                             <span className="userabout">
                               <h5>sara Sharma</h5>
@@ -1525,7 +1525,7 @@ const nextjsapp = () => {
                 <div className="counter-box py-3">
                   <div className="counter-ico-wraper">
                     <div className="counter-ico">
-                      <img src="../airplane_1.webp" alt="Image" className="img-fluid" />
+                      <img src="../airplane_1.WEBP" alt="Image" className="img-fluid" />
                     </div>
                   </div>
                   <div className="counter-text">
@@ -1538,7 +1538,7 @@ const nextjsapp = () => {
                 <div className="counter-box py-3">
                   <div className="counter-ico-wraper">
                     <div className="counter-ico">
-                      <img src="../tourism.webp" alt="Image" className="img-fluid" />
+                      <img src="../tourism.WEBP" alt="Image" className="img-fluid" />
                     </div>
                   </div>
                   <div className="counter-text">
@@ -1551,7 +1551,7 @@ const nextjsapp = () => {
                 <div className="counter-box py-3">
                   <div className="counter-ico-wraper">
                     <div className="counter-ico">
-                      <img src="../hotel1.webp" alt="Image" className="img-fluid" />
+                      <img src="../hotel1.WEBP" alt="Image" className="img-fluid" />
                     </div>
                   </div>
                   <div className="counter-text">
@@ -1564,7 +1564,7 @@ const nextjsapp = () => {
                 <div className="counter-box py-3">
                   <div className="counter-ico-wraper">
                     <div className="counter-ico">
-                      <img src="../costumer.webp" alt="Image" className="img-fluid" />
+                      <img src="../costumer.WEBP" alt="Image" className="img-fluid" />
                     </div>
                   </div>
                   <div className="counter-text">
@@ -1588,7 +1588,7 @@ const nextjsapp = () => {
                   <div className="blog-left">
                     <div className="blog-card">
                       <div className="blog-card-img">
-                        <img src="../blog1croped.webp" className="img-fluid" alt="image" />
+                        <img src="../blog1croped.WEBP" className="img-fluid" alt="image" />
                         <div className="blog-card-text">
                           <h5>The Ultimate Guide</h5>
                           <h5>to Climbing</h5>
@@ -1605,7 +1605,7 @@ const nextjsapp = () => {
                         <div className="blog-right-inner">
                           <div className="blog-card">
                             <div className="blog-card-img">
-                              <img src="../blog2croped.webp" className="img-fluid" alt="image" />
+                              <img src="../blog2croped.WEBP" className="img-fluid" alt="image" />
                               <div className="blog-card-text">
                                 <h5>12 Things {`i'd`} Tell Any </h5>
                                 <h5>New Traveller</h5>
@@ -1618,7 +1618,7 @@ const nextjsapp = () => {
                         <div className="blog-right-inner">
                           <div className="blog-card">
                             <div className="blog-card-img">
-                              <img src="../blog3croped.webp" className="img-fluid" alt="image" />
+                              <img src="../blog3croped.WEBP" className="img-fluid" alt="image" />
                               <div className="blog-card-text">
                                 <h5>The Ultimate Packing List</h5>
                                 <h5>for Travellers</h5>
@@ -1650,7 +1650,7 @@ const nextjsapp = () => {
               <div className="col-lg-4 col-md-10 col-sm-12">
                 <div className="about-right">
                   <div className="about-right-img">
-                    <img src="../aboutimg.webp" alt="Image" className="img-fluid" />
+                    <img src="../aboutimg.WEBP" alt="Image" className="img-fluid" />
                   </div>
                 </div>
               </div>
@@ -1667,14 +1667,14 @@ const nextjsapp = () => {
                 <div className="col-lg-2 col-md-5 col-sm-12">
                   <div className="about-bottom-card">
                     <div className="about-bottom-logo">
-                      <img src="../Tripocio_Logo.webp" alt="Image" className="img-fluid" />
+                      <img src="../Tripocio_Logo.WEBP" alt="Image" className="img-fluid" />
                     </div>
                   </div>
                 </div>
                 <div className="col-lg-2 col-md-5 col-sm-12">
                   <div className="about-bottom-card">
                     <div className="about-bottom-logo">
-                      <img src="../Meta_Sky_Logo-08.webp" alt="Image" className="img-fluid" />
+                      <img src="../Meta_Sky_Logo-08.WEBP" alt="Image" className="img-fluid" />
                     </div>
                   </div>
                 </div>
@@ -1724,25 +1724,25 @@ const nextjsapp = () => {
                 <div className="col-lg-4 col-md-8 col-sm-12">
                   <div className="fl-container">
                     <div className="footer-left-logo">
-                      <img className="img-responsive" src="../Tripocio_Logo.webp" alt="Image" />
+                      <img className="img-responsive" src="../Tripocio_Logo.WEBP" alt="Image" />
                     </div>
                     <ul className="footer-list">
                       <h6>CONTACT US</h6>
                       <li className="footer-list-item">
                         <span>
-                          <img className="img-responsive" src="../footer-ico3.webp" alt="Image" />
+                          <img className="img-responsive" src="../footer-ico3.WEBP" alt="Image" />
                         </span>
                         info@tripocio.com
                       </li>
                       <li className="footer-list-item">
                         <span>
-                          <img className="img-responsive" src="../footer-ico2.webp" alt="Image" />
+                          <img className="img-responsive" src="../footer-ico2.WEBP" alt="Image" />
                         </span>
                         +917067409106,+916262277999
                       </li>
                       <li className="footer-list-item">
                         <span>
-                          <img className="img-responsive" src="../footer-ico1.webp" alt="Image" />
+                          <img className="img-responsive" src="../footer-ico1.WEBP" alt="Image" />
                         </span>
                         1206,Skye Earth Corporate park,Opp.Shalimar Township,AB Road,indore
                       </li>
@@ -1754,7 +1754,7 @@ const nextjsapp = () => {
                     <form>
                       <div className="form-input-wraper">
                         <div className="form-icon">
-                          <span><img className="img-fluid" src="../user_5@2x.webp" alt="Image" /></span>
+                          <span><img className="img-fluid" src="../user_5@2x.WEBP" alt="Image" /></span>
                         </div>
                         <div className="form-group">
                           <input type="text" className="form-control item" id="username" placeholder="Name" value={name}
@@ -1763,7 +1763,7 @@ const nextjsapp = () => {
                       </div>
                       <div className="form-input-wraper">
                         <div className="form-icon">
-                          <span><img className="img-fluid" src="../email_8@2x.webp" alt="Image" /></span>
+                          <span><img className="img-fluid" src="../email_8@2x.WEBP" alt="Image" /></span>
                         </div>
                         <div className="form-group">
                           <input type="email" className="form-control item" id="email" placeholder="Email" value={email}
@@ -1772,7 +1772,7 @@ const nextjsapp = () => {
                       </div>
                       <div className="form-input-wraper">
                         <div className="form-icon">
-                          <span><img className="img-fluid" src="../phone-call_1@2x.webp" alt="Image" /></span>
+                          <span><img className="img-fluid" src="../phone-call_1@2x.WEBP" alt="Image" /></span>
                         </div>
                         <div className="form-group">
                           <input type="number" className="form-control item" id="phone-number" placeholder="Contact Number" value={phoneNumber}
@@ -1781,7 +1781,7 @@ const nextjsapp = () => {
                       </div>
                       <div className="form-input-wraper">
                         <div className="form-icon">
-                          <span><img className="img-fluid" src="../city@2x.webp" alt="Image" /></span>
+                          <span><img className="img-fluid" src="../city@2x.WEBP" alt="Image" /></span>
                         </div>
                         <div className="form-group">
                           <input type="text" className="form-control item" id="city" placeholder="City" value={city}
@@ -1815,13 +1815,13 @@ const nextjsapp = () => {
                     <div className="social-media">
                       <div className="social-icons">
                         <div className="social-ico">
-                          <Link href="https://www.facebook.com/"><img className="img-fluid" src="../facebook.webp" alt="image" /></Link>
+                          <Link href="https://www.facebook.com/"><img className="img-fluid" src="../facebook.WEBP" alt="image" /></Link>
                         </div>
                         <div className="social-ico">
-                          <Link href="https://www.instagram.com/"><img className="img-fluid" src="../instagram (1).webp" alt="image" /></Link>
+                          <Link href="https://www.instagram.com/"><img className="img-fluid" src="../instagram (1).WEBP" alt="image" /></Link>
                         </div>
                         <div className="social-ico">
-                          <Link href="https://www.twitter.com/"><img className="img-fluid" src="../twitter (2).webp" alt="image" /></Link>
+                          <Link href="https://www.twitter.com/"><img className="img-fluid" src="../twitter (2).WEBP" alt="image" /></Link>
                         </div>
                       </div>
                     </div>
